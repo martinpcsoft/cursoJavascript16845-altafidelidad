@@ -1,0 +1,22 @@
+[
+    {"id": 1, "nombre": "Attaque 77", "tipo": "cd", "desc": "El cielo puede esperar", "precio": 1200, "estilo": "Rock", "img": "./img/rock_Nacional.jpg"},
+    {"id": 2, "nombre": "Guns and Roses", "tipo": "cd", "desc": "Apetito por destruccion", "precio": 1100, "estilo": "Rock", "img": "./img/guns.jpg"},
+    {"id": 3, "nombre": "Twenty one pilots", "tipo": "cd", "desc": "Trench", "precio": 1200, "estilo": "Pop", "img": "./img/Twenty_one_pilots.jpg"},
+    {"id": 4, "nombre": "Maná", "tipo": "cd", "desc": "Grandes exitos", "precio": 1400, "estilo": "Pop", "img": "./img/mana.jpg"},
+    {"id": 5, "nombre": "Dua Lipa", "tipo": "cd", "desc": "Last Dance", "precio": 1200, "estilo": "masVendidos", "img": "./img/masVendidos.jpg"},
+    {"id": 6, "nombre": "Daddy", "tipo": "cd", "desc": "Mundial", "precio": 1500, "estilo": "masVendidos", "img": "./img/daddy.jpg"},
+    {"id": 7, "nombre": "Pearl Jam", "tipo": "vinilo", "desc": "Ten", "precio": 3800, "estilo": "Rock", "img": "./img/pearl_jam.jpg"},
+    {"id": 8, "nombre": "La Renga", "tipo": "vinilo", "desc": "Trueno Tierra", "precio": 980, "estilo": "Rock", "img": "./img/larenga.jpg"},
+    {"id": 9, "nombre": "Mickael Jackson", "tipo": "vinilo", "desc": "El rey del Pop", "precio": 1300, "estilo": "Pop", "img": "./img/pop.jpg"},
+    {"id": 10, "nombre": "Natti Natasha", "tipo": "vinilo", "desc": "IlumiNatti", "precio": 3250, "estilo": "Pop", "img": "./img/natasha.jpg"},
+    {"id": 11, "nombre": "Wos", "tipo": "cd", "desc": "Caravana", "precio": 2600, "estilo": "masVendidos", "img": "./img/wos.jpg"},
+    {"id": 12, "nombre": "Daft Punk", "tipo": "vinilo", "desc": "Random Memory Acces", "precio": 2200, "estilo": "masVendidos", "img": "./img/daftpunk.jpeg"},
+    {"id": 13, "nombre": "Foo Figther", "tipo": "cd", "desc": "Greatest Hits", "precio": 5100, "estilo": "masVendidos", "img": "./img/foo.jpg"},
+    {"id": 14, "nombre": "Nicki", "tipo": "cd", "desc": "Parte de Mi", "precio": 3800, "estilo": "masVendidos", "img": "./img/nicki.jpg"},
+    {"id": 15, "nombre": "Los Autenticos", "tipo": "cd", "desc": "Fiesta Nacional", "precio": 4300, "estilo": "masVendidos", "img": "./img/losautenticos.jpg"},
+    {"id": 16, "nombre": "J Balvin", "tipo": "cd", "desc": "Colores", "precio": 5800, "estilo": "masVendidos", "img": "./img/jbalvin.jpg"},
+    {"id": 17, "nombre": "Cerati Gustavo", "tipo": "cd", "desc": "Fuerza Natural", "precio": 4300, "estilo": "masVendidos", "img": "./img/cerati.jpg"},
+    {"id": 18, "nombre": "Soledad", "tipo": "cd", "desc": "Parte de Mi", "precio": 2600, "estilo": "masVendidos", "img": "./img/soledad.jpg"},
+    {"id": 19, "nombre": "Billie Eilish", "tipo": "cd", "desc": "Happier Than Ever", "precio": 4300, "estilo": "Pop", "img": "./img/pop01.jpg"},
+    {"id": 20, "nombre": "Los Rolling Stones", "tipo": "cd", "desc": "Voodoo Lounge", "precio": 3300, "estilo": "Rock", "img": "./img/rolling.jpg"}
+]
